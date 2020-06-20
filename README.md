@@ -24,9 +24,9 @@
 
 This project was developed using the following languages:
 
-- [HTML] (https://devdocs.io/html/))
-- [CSS] (https://devdocs.io/css/)
-- [Javascript] (https://devdocs.io/javascript/)
+* [HTML] (https://devdocs.io/html/)
+* [CSS] (https://devdocs.io/css/)
+* [Javascript] (https://devdocs.io/javascript/)
 
 ### 💻 Projeto
 
