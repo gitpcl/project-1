@@ -14,7 +14,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/gitpcl/project-1"></a>
     
   <a href="https://pedroclopes.com">
-    <img alt="Made by Pedro Lopes" src="https://img.shields.io/badge/made%20by-Pedro-Lopes-blueviolet"></a>
+    <img alt="Made by Pedro Lopes" src="https://img.shields.io/badge/made%20by-Pedro-%20Lopes-blueviolet"></a>
     <img alt="License" src="https://img.shields.io/badge/license-MIT-blueviolet">
 </p>
 
@@ -48,7 +48,7 @@ $ git clone https://github.com/gitpcl/project-1
 
 # Access the dir of the project in your terminal
 $ cd project-1
-
+```
 ### :recycle: Como contribuir
 
 - Fork this repo;
