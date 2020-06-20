@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src=".github/portfolio.png" width="250px" /><br>
+<img src=".github/portfolio.png" width="1500px" /><br>
  <b>Portfolio Template</b> 👨‍💻
 </h4>
 <p align="center">
