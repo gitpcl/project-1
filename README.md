@@ -14,7 +14,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/gitpcl/project-1"></a>
     
   <a href="https://pedroclopes.com">
-    <img alt="Made by Pedro Lopes" src="https://img.shields.io/badge/made%20by-Pedro-%20Lopes-blueviolet"></a>
+    <img alt="Made by Pedro Lopes" src="https://img.shields.io/badge/made%20by-Pedro%20Lopes-brightgreen"></a>
     <img alt="License" src="https://img.shields.io/badge/license-MIT-blueviolet">
 </p>
 
@@ -60,7 +60,7 @@ After the merge of your pull request is done , you can delete your branch.
 
 ### :mortar_board: Who was the instructor?
 
-The instructor for this module was Myke Brito [Diego Fernandes](https://github.com/maykbrito)
+The instructor for this module was [Myke Brito](https://github.com/maykbrito)
 
 ### :memo: License
 
