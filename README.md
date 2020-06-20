@@ -3,17 +3,15 @@
  <b>Portfolio Template</b> 👨‍💻
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="#">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gitpcl/project-1">
 
-  <img alt="Repository size" src="#">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gitpcl/project-1">
   
   <a href="#">
-    <img alt="GitHub last commit" src="#"></a>
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gitpcl/project-1"></a>
 
   <a href="https://github.com/ialexanderbrito/be-the-hero/issues">
-    <img alt="Repository issues" src="#"></a>
-    
-   <img alt="GitHub release (latest SemVer)" src="#">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/gitpcl/project-1"></a>
     
   <a href="https://pedroclopes.com">
     <img alt="Made by Pedro Lopes" src="#"></a>
