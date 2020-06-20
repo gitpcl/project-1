@@ -24,9 +24,9 @@
 
 This project was developed using the following languages:
 
-* [HTML] (https://devdocs.io/html/)
-* [CSS] (https://devdocs.io/css/)
-* [Javascript] (https://devdocs.io/javascript/)
+* [HTML](https://devdocs.io/html/)
+* [CSS](https://devdocs.io/css/)
+* [Javascript](https://devdocs.io/javascript/)
 
 ### 💻 Projeto
 
@@ -49,7 +49,7 @@ $ git clone https://github.com/gitpcl/project-1
 # Access the dir of the project in your terminal
 $ cd project-1
 ```
-### :recycle: Como contribuir
+### :floppy_disk: Como contribuir
 
 - Fork this repo;
 - Create a branch with your feature: `git checkout -b my-feature`
@@ -91,4 +91,4 @@ Me acompanhe nas minhas redes sociais.
 
 ---
 
-Made with ❤️ by **Pedro Lopes** 🤙
+Made with ❤️  by **Pedro Lopes** 🤙
