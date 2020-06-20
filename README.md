@@ -10,11 +10,11 @@
   <a href="#">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gitpcl/project-1"></a>
 
-  <a href="https://github.com/ialexanderbrito/be-the-hero/issues">
+  <a href="#">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/gitpcl/project-1"></a>
     
   <a href="https://pedroclopes.com">
-    <img alt="Made by Pedro Lopes" src="#"></a>
+    <img alt="Made by Pedro Lopes" src="https://img.shields.io/badge/made%20by-Pedro-Lopes-blueviolet"></a>
     <img alt="License" src="https://img.shields.io/badge/license-MIT-blueviolet">
 </p>
 
